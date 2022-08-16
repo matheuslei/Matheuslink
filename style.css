@@ -45,7 +45,6 @@ img.avatar{
   width: 100px;
   height: 100px;
   padding: 3.7px;
-  border: rgb(210, 202, 202) solid 4px;
   transition: 400ms;
 }
 
@@ -54,7 +53,6 @@ img#qrcode{
   width: 100px;
   height: 100px;
   padding: 3.7px;
-  border: rgb(210, 202, 202) solid 4px;
   transition: 400ms;
 }
 
